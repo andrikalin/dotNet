@@ -1,0 +1,15 @@
+c:\users\богдан\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Богдан\Documents\Visual Studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\Андрей\Downloads\Projects\Projects\Problem1.3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Андрей\Downloads\Projects\Projects\Problem1.3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Андрей\Downloads\Projects\Projects\Problem1.3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Наука\4-й курс\c#\problem1\1.3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Наука\4-й курс\c#\problem1\1.3\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Наука\4-й курс\c#\problem1\1.3\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Наука\4-й курс\c#\problem1\1.3\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Наука\4-й курс\c#\problem1\1.3\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Наука\4-й курс\c#\problem1\1.3\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

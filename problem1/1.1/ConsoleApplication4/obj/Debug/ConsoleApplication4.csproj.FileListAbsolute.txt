@@ -1,0 +1,12 @@
+c:\users\богдан\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+c:\users\богдан\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+c:\users\богдан\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+c:\users\богдан\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+c:\users\богдан\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+c:\users\богдан\documents\visual studio 2015\Projects\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Наука\4-й курс\c#\problem1\1.1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+D:\Наука\4-й курс\c#\problem1\1.1\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+D:\Наука\4-й курс\c#\problem1\1.1\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+D:\Наука\4-й курс\c#\problem1\1.1\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+D:\Наука\4-й курс\c#\problem1\1.1\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+D:\Наука\4-й курс\c#\problem1\1.1\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
